@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="style.css">
+  <title>Форма резервации</title>
+  <style>
+    /* Стили для формы и ее элементов */
+    .reservation-form {
+      max-width: 400px;
+      margin: 0 auto;
+      padding: 20px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+
+    .form-group {
+      margin-bottom: 15px;
+    }
+
+    .form-group label {
+      display: block;
+      margin-bottom: 5px;
+    }
+
+    .form-group input[type="text"],
+    .form-group input[type="email"],
+    .form-group select {
+      width: 100%;
+      padding: 5px;
+      font-size: 16px;
+      border: 1px solid #ccc;
+      border-radius: 3px;
+    }
+
+    .form-group button {
+      padding: 10px 15px;
+      font-size: 16px;
+      background-color: black;
+      color: #fff;
+      border: none;
+      border-radius: 3px;
+      cursor: pointer;
+    }
+
+    .form-group button:hover {
+      background-color: black;
+    }
+  </style>
+</head>
+<body>
+    <h1>SONO</h1>
+    <div class="menu">
+        <ul>
+            <li><a href="home.html">Начало</a></li>
+
+            <li><a href="Меню.html">Меню</a></li>
+            <li><a href="about.html">За нас</a></li>
+
+            <li><a href="contacts.html">Контакти</a></li>
+            <li><a href="form.html">Резервации</a></li>
+        </ul>
+    </div>
+    <br><br>
+  <div class="reservation-form">
+    <h2>Форма за резервации</h2>
+    <form>
+      <div class="form-group">
+        <label for="name">Три имена:</label>
+        <input type="text" id="name" name="name" required>
+      </div>
+      <div class="form-group">
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" required>
+      </div>
+      <div class="form-group">
+        <label for="phone">Телефон:</label>
+        <input type="text" id="phone" name="phone" required>
+      </div>
+      <div class="form-group">
+        <label for="date">Дата:</label>
+        <input type="date" id="date" name="date" required>
+      </div>
+      <div class="form-group">
+        <label for="time">Време за резервация:</label>
+        <input type="time" id="time" name="time" required>
+      </div>
+      <div class="form-group">
+        <label for="guests">Брой гости:</label>
+        <select id="guests" name="guests" required>
+          <option value="">Изберете брой гости</option>
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="3">3</option>
+          <option value="4">Повече</option>
+        </select>
+      </div>
+      <div class="form-group">
+        <button type="submit">Резервирай</button>
+      </div>
+    </form>
+  </div>
+  <section class="footer">
+    <p class="copyright">Copyright © 2023 Simona Ognyanova and Nadezhda Karapetrova. All rights reserved</p>
+</section>
+</body>
+</html>
