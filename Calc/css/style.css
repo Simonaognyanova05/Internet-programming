@@ -1,0 +1,30 @@
+body {
+    background-color: aquamarine;
+}
+h1{
+    color: white;
+    text-align: center;
+    padding-bottom: 20px;
+}
+p{
+    color: azure;
+}
+.forms{
+    width: 300px;
+    height: 30px;
+    font-size: 18px;
+}
+.form-calculator {
+    background-color: black;
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+    margin-top: 100px;
+    text-align: center;
+}
+.button{
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
