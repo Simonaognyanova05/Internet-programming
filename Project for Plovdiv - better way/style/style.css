@@ -83,6 +83,22 @@ body{
     padding: 20px; 
     font-size: 20px;
 }
+.facts-title{
+    font-size: 25px;
+    color: #0C5418;
+    text-align: center;
+    font-style: italic;
+}
+.facts-list{
+    color: #0C5418;
+}
+.fact{
+    padding: 20px; 
+    font-size: 20px;
+}
+.components{
+    padding-left: 30px;
+}
 
 footer{
     background-color: black;
