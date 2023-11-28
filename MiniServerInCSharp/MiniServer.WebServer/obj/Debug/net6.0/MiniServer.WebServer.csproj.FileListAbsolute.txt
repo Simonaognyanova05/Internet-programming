@@ -1,0 +1,21 @@
+C:\Users\pmg\source\repos\MiniServer.WebServer\bin\Debug\net6.0\Mini HTTP Server.deps.json
+C:\Users\pmg\source\repos\MiniServer.WebServer\bin\Debug\net6.0\Mini HTTP Server.runtimeconfig.json
+C:\Users\pmg\source\repos\MiniServer.WebServer\bin\Debug\net6.0\Mini HTTP Server.exe
+C:\Users\pmg\source\repos\MiniServer.WebServer\bin\Debug\net6.0\MiniServer.WebServer.exe
+C:\Users\pmg\source\repos\MiniServer.WebServer\bin\Debug\net6.0\MiniServer.WebServer.deps.json
+C:\Users\pmg\source\repos\MiniServer.WebServer\bin\Debug\net6.0\MiniServer.WebServer.runtimeconfig.json
+C:\Users\pmg\source\repos\MiniServer.WebServer\bin\Debug\net6.0\MiniServer.WebServer.dll
+C:\Users\pmg\source\repos\MiniServer.WebServer\bin\Debug\net6.0\MiniServer.WebServer.pdb
+C:\Users\pmg\source\repos\MiniServer.WebServer\bin\Debug\net6.0\Mini HTTP Server.dll
+C:\Users\pmg\source\repos\MiniServer.WebServer\bin\Debug\net6.0\Mini HTTP Server.pdb
+C:\Users\pmg\source\repos\MiniServer.WebServer\obj\Debug\net6.0\MiniServer.WebServer.csproj.AssemblyReference.cache
+C:\Users\pmg\source\repos\MiniServer.WebServer\obj\Debug\net6.0\MiniServer.WebServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pmg\source\repos\MiniServer.WebServer\obj\Debug\net6.0\MiniServer.WebServer.AssemblyInfoInputs.cache
+C:\Users\pmg\source\repos\MiniServer.WebServer\obj\Debug\net6.0\MiniServer.WebServer.AssemblyInfo.cs
+C:\Users\pmg\source\repos\MiniServer.WebServer\obj\Debug\net6.0\MiniServer.WebServer.csproj.CoreCompileInputs.cache
+C:\Users\pmg\source\repos\MiniServer.WebServer\obj\Debug\net6.0\MiniServer.WebServer.csproj.CopyComplete
+C:\Users\pmg\source\repos\MiniServer.WebServer\obj\Debug\net6.0\MiniServer.WebServer.dll
+C:\Users\pmg\source\repos\MiniServer.WebServer\obj\Debug\net6.0\refint\MiniServer.WebServer.dll
+C:\Users\pmg\source\repos\MiniServer.WebServer\obj\Debug\net6.0\MiniServer.WebServer.pdb
+C:\Users\pmg\source\repos\MiniServer.WebServer\obj\Debug\net6.0\MiniServer.WebServer.genruntimeconfig.cache
+C:\Users\pmg\source\repos\MiniServer.WebServer\obj\Debug\net6.0\ref\MiniServer.WebServer.dll

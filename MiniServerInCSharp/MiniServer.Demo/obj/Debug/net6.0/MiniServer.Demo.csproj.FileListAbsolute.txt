@@ -1,0 +1,26 @@
+C:\Users\pmg\source\repos\MiniServer.Demo\bin\Debug\net6.0\Mini HTTP Server.deps.json
+C:\Users\pmg\source\repos\MiniServer.Demo\bin\Debug\net6.0\Mini HTTP Server.runtimeconfig.json
+C:\Users\pmg\source\repos\MiniServer.Demo\bin\Debug\net6.0\Mini HTTP Server.exe
+C:\Users\pmg\source\repos\MiniServer.Demo\bin\Debug\net6.0\MiniServer.WebServer.deps.json
+C:\Users\pmg\source\repos\MiniServer.Demo\bin\Debug\net6.0\MiniServer.WebServer.runtimeconfig.json
+C:\Users\pmg\source\repos\MiniServer.Demo\bin\Debug\net6.0\MiniServer.WebServer.exe
+C:\Users\pmg\source\repos\MiniServer.Demo\bin\Debug\net6.0\MiniServer.Demo.exe
+C:\Users\pmg\source\repos\MiniServer.Demo\bin\Debug\net6.0\MiniServer.Demo.deps.json
+C:\Users\pmg\source\repos\MiniServer.Demo\bin\Debug\net6.0\MiniServer.Demo.runtimeconfig.json
+C:\Users\pmg\source\repos\MiniServer.Demo\bin\Debug\net6.0\MiniServer.Demo.dll
+C:\Users\pmg\source\repos\MiniServer.Demo\bin\Debug\net6.0\MiniServer.Demo.pdb
+C:\Users\pmg\source\repos\MiniServer.Demo\bin\Debug\net6.0\Mini HTTP Server.dll
+C:\Users\pmg\source\repos\MiniServer.Demo\bin\Debug\net6.0\MiniServer.WebServer.dll
+C:\Users\pmg\source\repos\MiniServer.Demo\bin\Debug\net6.0\Mini HTTP Server.pdb
+C:\Users\pmg\source\repos\MiniServer.Demo\bin\Debug\net6.0\MiniServer.WebServer.pdb
+C:\Users\pmg\source\repos\MiniServer.Demo\obj\Debug\net6.0\MiniServer.Demo.csproj.AssemblyReference.cache
+C:\Users\pmg\source\repos\MiniServer.Demo\obj\Debug\net6.0\MiniServer.Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pmg\source\repos\MiniServer.Demo\obj\Debug\net6.0\MiniServer.Demo.AssemblyInfoInputs.cache
+C:\Users\pmg\source\repos\MiniServer.Demo\obj\Debug\net6.0\MiniServer.Demo.AssemblyInfo.cs
+C:\Users\pmg\source\repos\MiniServer.Demo\obj\Debug\net6.0\MiniServer.Demo.csproj.CoreCompileInputs.cache
+C:\Users\pmg\source\repos\MiniServer.Demo\obj\Debug\net6.0\MiniServer.Demo.csproj.CopyComplete
+C:\Users\pmg\source\repos\MiniServer.Demo\obj\Debug\net6.0\MiniServer.Demo.dll
+C:\Users\pmg\source\repos\MiniServer.Demo\obj\Debug\net6.0\refint\MiniServer.Demo.dll
+C:\Users\pmg\source\repos\MiniServer.Demo\obj\Debug\net6.0\MiniServer.Demo.pdb
+C:\Users\pmg\source\repos\MiniServer.Demo\obj\Debug\net6.0\MiniServer.Demo.genruntimeconfig.cache
+C:\Users\pmg\source\repos\MiniServer.Demo\obj\Debug\net6.0\ref\MiniServer.Demo.dll

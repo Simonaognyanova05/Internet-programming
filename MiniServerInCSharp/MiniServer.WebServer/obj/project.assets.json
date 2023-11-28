@@ -1,0 +1,91 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Mini HTTP Server/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Mini HTTP Server.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Mini HTTP Server.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mini HTTP Server/1.0.0": {
+      "type": "project",
+      "path": "../Mini HTTP Server/Mini HTTP Server.csproj",
+      "msbuildProject": "../Mini HTTP Server/Mini HTTP Server.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Mini HTTP Server >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\pmg\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\pmg\\source\\repos\\MiniServer.WebServer\\MiniServer.WebServer.csproj",
+      "projectName": "MiniServer.WebServer",
+      "projectPath": "C:\\Users\\pmg\\source\\repos\\MiniServer.WebServer\\MiniServer.WebServer.csproj",
+      "packagesPath": "C:\\Users\\pmg\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\pmg\\source\\repos\\MiniServer.WebServer\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\pmg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\pmg\\source\\repos\\Mini HTTP Server\\Mini HTTP Server.csproj": {
+              "projectPath": "C:\\Users\\pmg\\source\\repos\\Mini HTTP Server\\Mini HTTP Server.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
