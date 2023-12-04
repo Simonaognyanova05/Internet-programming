@@ -1,0 +1,31 @@
+C:\Users\User\Desktop\New folder (3)\IRunes.App\bin\Debug\net6.0\Mini HTTP Server.deps.json
+C:\Users\User\Desktop\New folder (3)\IRunes.App\bin\Debug\net6.0\Mini HTTP Server.runtimeconfig.json
+C:\Users\User\Desktop\New folder (3)\IRunes.App\bin\Debug\net6.0\Mini HTTP Server.exe
+C:\Users\User\Desktop\New folder (3)\IRunes.App\bin\Debug\net6.0\MiniServer.Demo.deps.json
+C:\Users\User\Desktop\New folder (3)\IRunes.App\bin\Debug\net6.0\MiniServer.Demo.runtimeconfig.json
+C:\Users\User\Desktop\New folder (3)\IRunes.App\bin\Debug\net6.0\MiniServer.WebServer.deps.json
+C:\Users\User\Desktop\New folder (3)\IRunes.App\bin\Debug\net6.0\MiniServer.WebServer.runtimeconfig.json
+C:\Users\User\Desktop\New folder (3)\IRunes.App\bin\Debug\net6.0\MiniServer.WebServer.exe
+C:\Users\User\Desktop\New folder (3)\IRunes.App\bin\Debug\net6.0\MiniServer.Demo.exe
+C:\Users\User\Desktop\New folder (3)\IRunes.App\bin\Debug\net6.0\IRunes.App.exe
+C:\Users\User\Desktop\New folder (3)\IRunes.App\bin\Debug\net6.0\IRunes.App.deps.json
+C:\Users\User\Desktop\New folder (3)\IRunes.App\bin\Debug\net6.0\IRunes.App.runtimeconfig.json
+C:\Users\User\Desktop\New folder (3)\IRunes.App\bin\Debug\net6.0\IRunes.App.dll
+C:\Users\User\Desktop\New folder (3)\IRunes.App\bin\Debug\net6.0\IRunes.App.pdb
+C:\Users\User\Desktop\New folder (3)\IRunes.App\bin\Debug\net6.0\Mini HTTP Server.dll
+C:\Users\User\Desktop\New folder (3)\IRunes.App\bin\Debug\net6.0\MiniServer.Demo.dll
+C:\Users\User\Desktop\New folder (3)\IRunes.App\bin\Debug\net6.0\MiniServer.WebServer.dll
+C:\Users\User\Desktop\New folder (3)\IRunes.App\bin\Debug\net6.0\Mini HTTP Server.pdb
+C:\Users\User\Desktop\New folder (3)\IRunes.App\bin\Debug\net6.0\MiniServer.Demo.pdb
+C:\Users\User\Desktop\New folder (3)\IRunes.App\bin\Debug\net6.0\MiniServer.WebServer.pdb
+C:\Users\User\Desktop\New folder (3)\IRunes.App\obj\Debug\net6.0\IRunes.App.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\New folder (3)\IRunes.App\obj\Debug\net6.0\IRunes.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\New folder (3)\IRunes.App\obj\Debug\net6.0\IRunes.App.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\New folder (3)\IRunes.App\obj\Debug\net6.0\IRunes.App.AssemblyInfo.cs
+C:\Users\User\Desktop\New folder (3)\IRunes.App\obj\Debug\net6.0\IRunes.App.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\New folder (3)\IRunes.App\obj\Debug\net6.0\IRunes.App.csproj.CopyComplete
+C:\Users\User\Desktop\New folder (3)\IRunes.App\obj\Debug\net6.0\IRunes.App.dll
+C:\Users\User\Desktop\New folder (3)\IRunes.App\obj\Debug\net6.0\refint\IRunes.App.dll
+C:\Users\User\Desktop\New folder (3)\IRunes.App\obj\Debug\net6.0\IRunes.App.pdb
+C:\Users\User\Desktop\New folder (3)\IRunes.App\obj\Debug\net6.0\IRunes.App.genruntimeconfig.cache
+C:\Users\User\Desktop\New folder (3)\IRunes.App\obj\Debug\net6.0\ref\IRunes.App.dll
