@@ -99,6 +99,7 @@ namespace Project
             this.Controls.Add(this.btnOpenDietPlanner);
             this.Controls.Add(this.btnOpenFitnessTracker);
             this.Name = "Form1";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "HealthyLifestyle";
             this.ResumeLayout(false);
 

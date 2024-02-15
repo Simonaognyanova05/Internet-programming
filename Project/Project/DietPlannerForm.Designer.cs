@@ -187,6 +187,7 @@ namespace Project
             this.Controls.Add(this.txtBreakfast);
             this.Controls.Add(this.button1);
             this.Name = "DietPlannerForm";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "DietPlannerForm";
             this.ResumeLayout(false);
             this.PerformLayout();

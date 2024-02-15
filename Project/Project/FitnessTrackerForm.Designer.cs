@@ -162,6 +162,7 @@ namespace Project
             this.Controls.Add(this.lblResult);
             this.Controls.Add(this.button1);
             this.Name = "FitnessTrackerForm";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "FitnessTrackerForm";
             this.Load += new System.EventHandler(this.FitnessTrackerForm_Load);
             this.ResumeLayout(false);

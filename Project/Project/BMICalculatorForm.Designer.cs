@@ -183,6 +183,7 @@ namespace Project
             this.Controls.Add(this.txtWeight);
             this.Controls.Add(this.button1);
             this.Name = "BMICalculatorForm";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "BMICalculatorForm";
             this.ResumeLayout(false);
             this.PerformLayout();
