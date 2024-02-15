@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bQAcKRdrNVctXoShTqG44PgXHnzbV1udhAJMlDdAPlqe2fh2OsIOcEI5HJ83Fh6hDo8pL4jQche7Q1l13Lv4pA==",
+  "dgSpecHash": "c54SvYKtvEFfEZxLEjyAmK69ScuqwOjKHkSPleISri/9Ta2+g9OATyDinXecCgqqfsWqRXtjDMSZlbEmeELVhg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pmg\\source\\repos\\Mini HTTP Server\\Mini HTTP Server.csproj",
+  "projectFilePath": "C:\\Users\\User\\Desktop\\Git\\Internet-programming\\MiniServerInCSharp\\Mini HTTP Server\\Mini HTTP Server.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

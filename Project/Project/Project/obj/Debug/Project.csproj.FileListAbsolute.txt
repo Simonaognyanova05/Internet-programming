@@ -1,0 +1,14 @@
+C:\Katerina\Project\Project\bin\Debug\Project.exe.config
+C:\Katerina\Project\Project\bin\Debug\Project.exe
+C:\Katerina\Project\Project\bin\Debug\Project.pdb
+C:\Katerina\Project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Katerina\Project\Project\obj\Debug\Project.Form1.resources
+C:\Katerina\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Katerina\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Katerina\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Katerina\Project\Project\obj\Debug\Project.exe
+C:\Katerina\Project\Project\obj\Debug\Project.pdb
+C:\Katerina\Project\Project\obj\Debug\Project.FitnessTrackerForm.resources
+C:\Katerina\Project\Project\obj\Debug\Project.DietPlannerForm.resources
+C:\Katerina\Project\Project\obj\Debug\Project.BMICalculatorForm.resources
+C:\Katerina\Project\Project\obj\Debug\Project.HealthyTipsForm.resources
