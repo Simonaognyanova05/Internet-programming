@@ -38,13 +38,13 @@ namespace Project
                 foreach (DataRow row in dt.Rows)
                 {
                     // Предполага се, че има колона "name" в таблицата "Diet"
-                    string name = row["Pesron"].ToString();
+                    string day = row["Day"].ToString();
                     string breakfast = row["Breakfast"].ToString();
                     string lunch = row["Lunch"].ToString();
                     string dinner = row["Dinner"].ToString();
 
 
-                    listBox1.Items.Add(name + ": " + "Закуска - " + breakfast + "; Обяд - " + lunch + "; Вечеря - " + dinner);
+                    listBox1.Items.Add("Ден: " + day + ": " + "Закуска - " + breakfast + "; Обяд - " + lunch + "; Вечеря - " + dinner);
                 }
             }
             else
